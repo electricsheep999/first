@@ -1,3 +1,12 @@
+/*menu*/
+.menu {
+  width: 100px;
+  background-color: white;
+  position: absolute;
+  border: 1px solid black;
+  padding: 10px;
+}
+
 /*Links*/
 a{
   text-decoration: none;
@@ -77,13 +86,34 @@ text-align: center;
   text-align: center;
 }
 
+.main-p4 {
+  max-width: 500px;
+  margin: 20px auto auto;
+  color: black;
+  border: 10px solid red;
+  padding: 20px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  text-align: center;
+}
+
 .main-p3:hover {
   background-color: blue;
 }
 
 /*main-content-seoul*/
 .main-content-seoul {
-  border: solid yellow 8px;
+  margin: 10px;
+  border: 20px solid yellow;
+  text-align: center;
+  padding: 20px;
+}
+
+.main-content-hongkong {
+  margin: 10px;
+  border: 20px solid black;
+  text-align: center;
 }
 
 

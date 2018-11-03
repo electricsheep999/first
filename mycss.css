@@ -114,6 +114,21 @@ text-align: center;
   margin: 10px;
   border: 20px solid black;
   text-align: center;
+  padding: 20px;
+}
+
+.main-content-calcutta {
+  margin: 10px;
+  border: 20px solid blue;
+  text-align: center;
+  padding: 20px;
+}
+
+.main-content-osaka {
+  margin: 10px;
+  border: 20px solid red;
+  text-align: center;
+  padding: 20px;
 }
 
 
